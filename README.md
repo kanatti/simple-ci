@@ -35,9 +35,9 @@
 
 ## Stack
 
-- Rust + Rocket for API server
+- Go + Gin for API server
 - React for frontend
-- Go for other intermediate applications (Can use Rust but Go might have better libraries in place)
+- Go for other intermediate applications
 - MongoDB for storage
 - Docker
 
